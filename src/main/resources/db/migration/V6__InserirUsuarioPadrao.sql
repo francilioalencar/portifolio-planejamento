@@ -1,0 +1,1 @@
+INSERT INTO `usuario` VALUES (1,'teste','10a9c136d796bab18d3e144092a4f20a');
