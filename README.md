@@ -9,6 +9,7 @@ Repositório portifolio linguagem JAVA, aqui foi .
   <li>Validation;</li>
   <li>springdoc-openapi;</li>
   <li>Spring Security;</li>
+  <li>JPA;</li>
 </ul>
 
 <p><b>Ações:</b></p>
