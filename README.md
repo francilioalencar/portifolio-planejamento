@@ -1,16 +1,22 @@
 # portifolio-planejamento
-portifolio-planejamento
+Repositório portifolio linguagem JAVA, aqui foi . 
 
-Nessa primeira versão foi disponibilizada API desenvolvida em Java Spring Boot.
-Autenticação com JWT
-Banco de dados Mysql
-Migration com flyway
-Validation
+<p>Versão disponibilizada e desenvolvida em Java com  framework Spring Boot.</p>
+<ul>
+  <li>Autenticação com JWT;</li>
+  <li>Banco de dados Mysql;</li>
+  <li>Migration com flyway;</li>
+  <li>Validation;</li>
+  <li>springdoc-openapi;</li>
+  <li>Spring Security;</li>
+</ul>
 
-Ações:
-  Cadastro de empresas, planejamento, objetivos e swot
-  Listagem das informações cadastradas
-  Atualização das informações cadastradas
+<p><b>Ações:</b></p>
+<ul>
+  <li>Cadastro de empresas, planejamento, objetivos e swot;</li>
+  <li>Listagem das informações cadastradas;</li>
+  <li>Atualização das informações cadastradas;</li>
+</ul>
+<p>JDK 17</p>
+<p>Spring 3.1</p>
 
-JDK 17
-Spring 3.1
